@@ -23,18 +23,18 @@ Now specializing in **Python test automation**, **API/UI frameworks**, and **LLM
 
 ## Featured work
 
-### 1. [API Automation Framework](https://github.com/nilima-satapathy/api-automation-pytest) · *live*
-**Python · Pytest · requests · JSON payloads**
+### 1. [API Automation Framework](https://github.com/nilima-satapathy/api-automation-pytest) · *complete*
+**Python · Pytest · requests · jsonschema · pytest-html · GitHub Actions**
 
-Maintainable REST API test suite with a reusable `ApiClient`, shared fixtures, data-driven GET coverage, and write operations (POST / PUT / PATCH / DELETE).
+Maintainable REST API test suite: reusable `ApiClient`, fixtures, data-driven tests, write ops, JSON Schema contracts, negative cases, HTML reports, and CI.
 
 | Status | Detail |
 |--------|--------|
-| **Progress** | Milestones **M1–M4** complete |
-| **Coverage** | **45 automated tests** (green locally) |
-| **Practice** | Parametrize · payload files · clean project layout · git tags per milestone |
+| **Progress** | **M1–M8 complete** (full project) |
+| **Coverage** | **77 automated tests** + green CI badge |
+| **Practice** | Parametrize · payloads · schemas · negatives · CI artifact |
 
-→ [Repository](https://github.com/nilima-satapathy/api-automation-pytest) · tags: `milestone-1` … `milestone-4`
+→ [Repository](https://github.com/nilima-satapathy/api-automation-pytest) · [CI](https://github.com/nilima-satapathy/api-automation-pytest/actions)
 
 ### 2. [AI Career Journey](https://github.com/nilima-satapathy/ai-career-journey) · *live*
 Public roadmap and progress board for my AI Test / GenAI quality transition (milestones checked only when shipped).
