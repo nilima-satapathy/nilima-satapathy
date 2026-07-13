@@ -48,9 +48,9 @@ Browser E2E suite against [SauceDemo](https://www.saucedemo.com): login journeys
 
 | Status | Detail |
 |--------|--------|
-| **Progress** | **M1 complete** — first login test green |
-| **Next** | M2 Page Object Model → cart/checkout → CI |
-| **Tracking** | Tags: `milestone-1` · [Releases](https://github.com/nilima-satapathy/playwright-pom-saucedemo/releases) |
+| **Progress** | **M1–M2 complete** — login test + Page Object Model |
+| **Next** | M3 cart/checkout journeys → traces → CI |
+| **Tracking** | Tags: `milestone-1`, `milestone-2` · [Releases](https://github.com/nilima-satapathy/playwright-pom-saucedemo/releases) |
 
 → [Repository](https://github.com/nilima-satapathy/playwright-pom-saucedemo) · [Journey board](https://github.com/nilima-satapathy/ai-career-journey)
 
