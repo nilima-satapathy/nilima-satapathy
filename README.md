@@ -41,10 +41,22 @@ Public roadmap and progress board for my AI Test / GenAI quality transition (mil
 
 → [Dashboard](https://github.com/nilima-satapathy/ai-career-journey)
 
+### 3. [UI Automation Suite — SauceDemo](https://github.com/nilima-satapathy/playwright-pom-saucedemo) · *in progress*
+**Python · Playwright · Pytest · Page Object Model (next milestones)**
+
+Browser E2E suite against [SauceDemo](https://www.saucedemo.com): login journeys first, then POM, cart/checkout, failure traces, and headless CI.
+
+| Status | Detail |
+|--------|--------|
+| **Progress** | **M1 complete** — first login test green |
+| **Next** | M2 Page Object Model → cart/checkout → CI |
+| **Tracking** | Tags: `milestone-1` · [Releases](https://github.com/nilima-satapathy/playwright-pom-saucedemo/releases) |
+
+→ [Repository](https://github.com/nilima-satapathy/playwright-pom-saucedemo) · [Journey board](https://github.com/nilima-satapathy/ai-career-journey)
+
 ### Coming next (roadmap)
 | Project | Focus |
 |---------|--------|
-| UI automation (Playwright + POM) | End-to-end journeys, negative paths, headless CI |
 | RAG Document Q&A | Retrieval quality, citations, basic eval metrics |
 | LLM Evaluation Dashboard | Golden set, faithfulness/relevancy, release-style gating |
 
