@@ -48,11 +48,11 @@ Browser E2E suite against [SauceDemo](https://www.saucedemo.com): login journeys
 
 | Status | Detail |
 |--------|--------|
-| **Progress** | **M1–M4 complete** — POM · 9 tests · negative login · fail screenshot/trace |
-| **Next** | M5 headless CI → M6 README polish |
-| **Tracking** | Tags: `milestone-1`…`milestone-4` · [Releases](https://github.com/nilima-satapathy/playwright-pom-saucedemo/releases) |
+| **Progress** | **M1–M5 complete** — POM · 9 tests · negatives · fail traces · headless CI |
+| **Next** | M6 README polish |
+| **Tracking** | Tags: `milestone-1`…`milestone-5` · [Releases](https://github.com/nilima-satapathy/playwright-pom-saucedemo/releases) · [CI](https://github.com/nilima-satapathy/playwright-pom-saucedemo/actions) |
 
-→ [Repository](https://github.com/nilima-satapathy/playwright-pom-saucedemo) · [Journey board](https://github.com/nilima-satapathy/ai-career-journey)
+→ [Repository](https://github.com/nilima-satapathy/playwright-pom-saucedemo) · [CI](https://github.com/nilima-satapathy/playwright-pom-saucedemo/actions) · [Journey board](https://github.com/nilima-satapathy/ai-career-journey)
 
 ### Coming next (roadmap)
 | Project | Focus |
