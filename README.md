@@ -61,9 +61,9 @@ GenAI app: ask questions over your PDFs with retrieval-augmented answers and sou
 
 | Status | Detail |
 |--------|--------|
-| **Progress** | **M1–M2 complete** — chunking + Chroma vector search (local embeddings) |
-| **Next** | M3 LLM answers + citations → Streamlit UI → eval → deploy |
-| **Tracking** | Tags: `milestone-1`, `milestone-2` · [Releases](https://github.com/nilima-satapathy/rag-doc-qa/releases) |
+| **Progress** | **M1–M3 complete** — chunk → Chroma retrieve → Grok answer + citations |
+| **Next** | M4 Streamlit UI → eval → deploy |
+| **Tracking** | Tags: `milestone-1`…`milestone-3` · [Releases](https://github.com/nilima-satapathy/rag-doc-qa/releases) |
 
 → [Repository](https://github.com/nilima-satapathy/rag-doc-qa) · [Journey board](https://github.com/nilima-satapathy/ai-career-journey)
 
