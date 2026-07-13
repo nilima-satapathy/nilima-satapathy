@@ -54,10 +54,22 @@ Browser E2E suite against [SauceDemo](https://www.saucedemo.com): POM pages, log
 
 → [Repository](https://github.com/nilima-satapathy/playwright-pom-saucedemo) · [CI](https://github.com/nilima-satapathy/playwright-pom-saucedemo/actions) · [Journey board](https://github.com/nilima-satapathy/ai-career-journey)
 
+### 4. [RAG Document Q&A](https://github.com/nilima-satapathy/rag-doc-qa) · *in progress*
+**Python · PDF ingest · chunking · (next: embeddings · Chroma · citations · Streamlit)**
+
+GenAI app: ask questions over your PDFs with retrieval-augmented answers and source citations. Built milestone-by-milestone in public.
+
+| Status | Detail |
+|--------|--------|
+| **Progress** | **M1 complete** — PDF load + configurable chunking (3 sample docs) |
+| **Next** | M2 embed + vector search → answer + citations → UI → eval → deploy |
+| **Tracking** | Tag: `milestone-1` · [Releases](https://github.com/nilima-satapathy/rag-doc-qa/releases) |
+
+→ [Repository](https://github.com/nilima-satapathy/rag-doc-qa) · [Journey board](https://github.com/nilima-satapathy/ai-career-journey)
+
 ### Coming next (roadmap)
 | Project | Focus |
 |---------|--------|
-| RAG Document Q&A | Retrieval quality, citations, basic eval metrics |
 | LLM Evaluation Dashboard | Golden set, faithfulness/relevancy, release-style gating |
 
 ---
