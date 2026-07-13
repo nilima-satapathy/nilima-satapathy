@@ -41,16 +41,16 @@ Public roadmap and progress board for my AI Test / GenAI quality transition (mil
 
 → [Dashboard](https://github.com/nilima-satapathy/ai-career-journey)
 
-### 3. [UI Automation Suite — SauceDemo](https://github.com/nilima-satapathy/playwright-pom-saucedemo) · *in progress*
-**Python · Playwright · Pytest · Page Object Model (next milestones)**
+### 3. [UI Automation Suite — SauceDemo](https://github.com/nilima-satapathy/playwright-pom-saucedemo) · *complete*
+**Python · Playwright · Pytest · Page Object Model · GitHub Actions**
 
-Browser E2E suite against [SauceDemo](https://www.saucedemo.com): login journeys first, then POM, cart/checkout, failure traces, and headless CI.
+Browser E2E suite against [SauceDemo](https://www.saucedemo.com): POM pages, login/cart/checkout journeys, negative login, fail traces, headless CI.
 
 | Status | Detail |
 |--------|--------|
-| **Progress** | **M1–M5 complete** — POM · 9 tests · negatives · fail traces · headless CI |
-| **Next** | M6 README polish |
-| **Tracking** | Tags: `milestone-1`…`milestone-5` · [Releases](https://github.com/nilima-satapathy/playwright-pom-saucedemo/releases) · [CI](https://github.com/nilima-satapathy/playwright-pom-saucedemo/actions) |
+| **Progress** | **M1–M6 complete** (full project) |
+| **Coverage** | **9 automated UI tests** + green CI badge |
+| **Practice** | POM · multi-page journeys · negatives · traces · CI artifacts |
 
 → [Repository](https://github.com/nilima-satapathy/playwright-pom-saucedemo) · [CI](https://github.com/nilima-satapathy/playwright-pom-saucedemo/actions) · [Journey board](https://github.com/nilima-satapathy/ai-career-journey)
 
